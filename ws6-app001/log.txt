@@ -1,0 +1,9 @@
+[INFO Wed Feb 22 18:05:20 2023]: info msg
+[INFO Wed Feb 22 18:05:20 2023]: the value of index.numLines is 
+[INFO Wed Feb 22 18:05:20 2023]: 1
+[INFO Wed Feb 22 18:05:20 2023]: the value of i is 
+[INFO Wed Feb 22 18:05:20 2023]: 0
+[INFO Wed Feb 22 18:05:20 2023]: the value of i is 
+[INFO Wed Feb 22 18:05:20 2023]: 1
+[INFO Wed Feb 22 18:05:20 2023]: the value of i is 
+[INFO Wed Feb 22 18:05:20 2023]: 2
